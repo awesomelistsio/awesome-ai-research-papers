@@ -24,7 +24,7 @@
 
 - [A Mathematical Theory of Communication (1948)](https://ieeexplore.ieee.org/document/6773024) - Claude Shannon’s foundational work on information theory.
 - [The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain (1958)](https://psycnet.apa.org/doi/10.1037/h0042519) - The original paper introducing the perceptron by Frank Rosenblatt.
-- [Artificial Intelligence: A General Survey (1956)](https://www.dartmouth.edu/~ai50/homepage.html) - The Dartmouth Summer Research Project proposal, considered the founding moment of AI as a field.
+- [Artificial Intelligence: A General Survey (1956)](http://jmc.stanford.edu/articles/dartmouth/dartmouth.pdf) - The Dartmouth Summer Research Project proposal, considered the founding moment of AI as a field.
 - [Learning Representations by Back-Propagating Errors (1986)](https://www.nature.com/articles/323533a0) - David Rumelhart’s introduction of the backpropagation algorithm for training neural networks.
 - [Attention Is All You Need (2017)](https://arxiv.org/abs/1706.03762) - The seminal paper that introduced the Transformer architecture.
 
